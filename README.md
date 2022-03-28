@@ -1,6 +1,6 @@
 Oii! Eu sou a Ana🙂
 
-- 📖 estudante de computação 
+- 📖 estudante de cc 
 - 🥋 atleta de jiujtisu
 - 🤔 em constante evolução
 - <div align="center">
