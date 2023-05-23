@@ -1,4 +1,4 @@
 Oii! Eu sou a Ana🙂
 
-- 📖 estudante de cc 
-- 🤔 futura dev
+- 📖 estudante de bcc 
+- 🤔 futura cientista de dados
